@@ -14,5 +14,6 @@ func main()  {
 	// sum := x+y
 	// fmt.Println(sum)
 	// types()
-	operators1()
+	// operators2()
+	operators2()
 }

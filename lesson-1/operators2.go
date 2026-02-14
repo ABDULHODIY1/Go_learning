@@ -2,11 +2,19 @@
 package main
 import "fmt"
 
+func operators2() {
 
-var number := 39
-var stringn := "Name"
+	number := 39
+	number2 := 90
 
-if number == stringn{
-	fmt.Println("True")
-}  else if  number == {
+	if number == number2{
+		fmt.Println("True")
+
+	}else if  number != number2 {
+		fmt.Println("false")
+
+	}else if !(number == number2) {
+		fmt.Println("True")
+	}
+
 }
