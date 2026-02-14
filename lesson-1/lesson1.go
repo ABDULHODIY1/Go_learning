@@ -15,5 +15,8 @@ func main()  {
 	// fmt.Println(sum)
 	// types()
 	// operators2()
-	operators2()
+	// operators2()
+	// operators3()
+	// operators4()
+	operators5()
 }
